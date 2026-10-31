@@ -53,4 +53,33 @@ Python-based application designed to organize and manage personal expenses.
 
 **Technologies:** Python
 
+---
+
+## 🎓 Education
+
+**Master of Science – Data Science**  
+Saint Peter's University, New Jersey, USA  
+February 2025 | GPA: 3.7
+
+**Bachelor of Engineering – Computer Science**  
+JNTUH, India  
+July 2021 | GPA: 3.5
+
+---
+
+## 💼 Professional Experience
+
+**Teaching Assistant – Machine Learning**  
+Saint Peter's University | January 2024 – June 2024
+
+- Supported students in understanding Machine Learning concepts and algorithms.
+- Assisted with Python-based ML labs and assignments.
+- Worked with real-world datasets and provided technical feedback.
+
+**Data Analyst – Aspire Edu**  
+January 2021 – February 2023
+
+- Developed Tableau dashboards to monitor applications, conversions, and visa approvals.
+- Used Python and SQL to automate data processing and reporting.
+
 
