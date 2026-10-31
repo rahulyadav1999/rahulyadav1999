@@ -82,4 +82,15 @@ January 2021 – February 2023
 - Developed Tableau dashboards to monitor applications, conversions, and visa approvals.
 - Used Python and SQL to automate data processing and reporting.
 
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Rahul Yadav Nethula](https://www.linkedin.com/in/rahul-yadav-nethula/)
+- 💻 GitHub: [rahulyadav1999](https://github.com/rahulyadav1999)
+- 📧 Email: nethularahulyadav@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
 
