@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rahul Yadav Nethula 👋
 
-<!--
-**rahulyadav1999/rahulyadav1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | AI & Machine Learning Engineer
 
-Here are some ideas to get you started:
+I'm passionate about building practical solutions using Data Science, Machine Learning, Deep Learning, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning complex problems into intelligent, data-driven applications and continuously learning new technologies.
+
+- 🔭 Interested in Machine Learning, Deep Learning, and AI Agents
+- 🌱 Currently strengthening my skills in Generative AI and Agentic AI
+- 💡 Exploring real-world AI/ML applications
+- 🤝 Open to collaborating on interesting AI and Data Science projects
+- 📍 Hyderabad, India
+
