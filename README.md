@@ -12,3 +12,25 @@ I enjoy turning complex problems into intelligent, data-driven applications and 
 - 🤝 Open to collaborating on interesting AI and Data Science projects
 - 📍 Hyderabad, India
 
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- Python, SQL, R
+
+**Machine Learning**
+- Scikit-learn, XGBoost, Feature Engineering, Model Evaluation, Hyperparameter Tuning
+
+**Deep Learning**
+- PyTorch, TensorFlow, ANN, CNN, Transformers
+
+**Generative AI**
+- LLMs, RAG, LangChain, LangGraph, Hugging Face, Vector Databases, AI Agents
+
+**Data Analysis & Visualization**
+- Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI
+
+**Tools & Technologies**
+- Git, GitHub, Jupyter Notebook, VS Code, Streamlit
+
