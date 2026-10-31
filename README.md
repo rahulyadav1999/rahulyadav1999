@@ -34,3 +34,23 @@ I enjoy turning complex problems into intelligent, data-driven applications and 
 **Tools & Technologies**
 - Git, GitHub, Jupyter Notebook, VS Code, Streamlit
 
+---
+
+## 🚀 Featured Projects
+
+### 1. Credit Risk Prediction
+Machine Learning project focused on predicting credit risk using borrower and financial data.
+
+**Technologies:** Python, Pandas, Scikit-learn, Machine Learning
+
+### 2. Healthcare Insurance Premium Prediction
+Predictive modeling project exploring factors influencing health insurance premiums.
+
+**Technologies:** Python, Pandas, Scikit-learn, Regression
+
+### 3. Expense Management System
+Python-based application designed to organize and manage personal expenses.
+
+**Technologies:** Python
+
+
