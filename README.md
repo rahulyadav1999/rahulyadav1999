@@ -38,21 +38,31 @@ I enjoy turning complex problems into intelligent, data-driven applications and 
 
 ## 🚀 Featured Projects
 
-### 1. Credit Risk Prediction
+### 1. Car Damage Detection
+
+Deep Learning project that classifies car images into six damage categories using a fine-tuned ResNet50 model. Includes a Streamlit application and a FastAPI backend for image-based predictions.
+
+**Technologies:** Python, PyTorch, ResNet50, Transfer Learning, FastAPI, Streamlit, Pillow
+
+**GitHub:** [Car Damage Detection](https://github.com/rahulyadav1999/car-damage-detection)
+
+### 2. Credit Risk Prediction
+
 Machine Learning project focused on predicting credit risk using borrower and financial data.
 
 **Technologies:** Python, Pandas, Scikit-learn, Machine Learning
 
-### 2. Healthcare Insurance Premium Prediction
+### 3. Healthcare Insurance Premium Prediction
+
 Predictive modeling project exploring factors influencing health insurance premiums.
 
 **Technologies:** Python, Pandas, Scikit-learn, Regression
 
-### 3. Expense Management System
+### 4. Expense Management System
+
 Python-based application designed to organize and manage personal expenses.
 
 **Technologies:** Python
-
 ---
 
 ## 🎓 Education
