@@ -38,7 +38,18 @@ I enjoy turning complex problems into intelligent, data-driven applications and 
 
 ## 🚀 Featured Projects
 
-### 1. Car Damage Detection
+### 🛍️ GenAI E-commerce Shopping Assistant
+**Tech Stack:** Python, Generative AI, RAG, ChromaDB, Sentence Transformers, Groq (GPT-OSS 120B), SQLite, SQL, Streamlit
+
+- Built an AI-powered shopping assistant using Retrieval-Augmented Generation (RAG) and Large Language Models.
+- Implemented semantic FAQ retrieval using Sentence Transformers and ChromaDB.
+- Developed natural-language product search with LLM-powered intent classification and query parsing.
+- Integrated SQLite for structured product filtering by brand, price, and ratings.
+- Created an interactive Streamlit chatbot with product recommendation cards.
+
+🔗 **[View Project on GitHub](https://github.com/rahulyadav1999/genai-ecommerce-shopping-assistant)**
+
+###  Car Damage Detection
 
 Deep Learning project that classifies car images into six damage categories using a fine-tuned ResNet50 model. Includes a Streamlit application and a FastAPI backend for image-based predictions.
 
@@ -46,19 +57,19 @@ Deep Learning project that classifies car images into six damage categories usin
 
 **GitHub:** [Car Damage Detection](https://github.com/rahulyadav1999/car-damage-detection)
 
-### 2. Credit Risk Prediction
+###  Credit Risk Prediction
 
 Machine Learning project focused on predicting credit risk using borrower and financial data.
 
 **Technologies:** Python, Pandas, Scikit-learn, Machine Learning
 
-### 3. Healthcare Insurance Premium Prediction
+###  Healthcare Insurance Premium Prediction
 
 Predictive modeling project exploring factors influencing health insurance premiums.
 
 **Technologies:** Python, Pandas, Scikit-learn, Regression
 
-### 4. Expense Management System
+###  Expense Management System
 
 Python-based application designed to organize and manage personal expenses.
 
